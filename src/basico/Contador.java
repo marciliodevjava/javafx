@@ -71,6 +71,7 @@ public class Contador extends Application {
 		cenaPrinciapal.getStylesheets().add(caminhoCss);
 		cenaPrinciapal.getStylesheets().add("https://fonts.googleapis.com/css2?family=Oswald");
 
+		primaryStage.setTitle("Contador");
 		primaryStage.setScene(cenaPrinciapal);
 		primaryStage.show();
 	}
