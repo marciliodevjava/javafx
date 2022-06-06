@@ -13,3 +13,12 @@
 	-fx-text-fill: #48b2ee;
 	-fx-font-size: 36px;	
 }
+
+.botoes {
+	-fx-background-color: #ffffff ;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 24px;
+	-fx-min-width: 60px;
+	-fx-min-hiigth: 60px;
+	-fx-background-radius: 30px;
+}
