@@ -22,3 +22,15 @@
 	-fx-min-hiigth: 60px;
 	-fx-background-radius: 30px;
 }
+
+.verde {
+	-fx-text-fill: #4bdb82;
+}
+
+.vermelho {
+	-fx-text-fill: #ee4139;
+}
+
+.branco {
+	-fx-text-fill: #ffffff;
+}
