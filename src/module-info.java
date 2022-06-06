@@ -4,4 +4,5 @@ module exercicios.javafx {
 	
 	opens basico;
 	opens troca;
+	opens layout;
 }
