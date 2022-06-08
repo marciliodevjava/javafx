@@ -16,7 +16,7 @@ public class AppFXML extends Application{
 		URL arquivoFXML = getClass().getResource("/fxml/Login.fxml");
 		GridPane raiz = FXMLLoader.load(arquivoFXML);
 		
-		Scene cena = new Scene(raiz, 350, 400);//Criarção de uma cena
+		Scene cena = new Scene(raiz, 350, 350);//Criarção de uma cena
 		cena.getStylesheets().add(arquivoCSS);
 		
 		primaryStage.setResizable(false);// Desativa a opção de aumentar e diminuir a tela.
